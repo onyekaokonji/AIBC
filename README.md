@@ -6,3 +6,6 @@ This is a model created to predict user's response to marketing campaigns by an 
 <ul> Pandas </ul>
 <ul> Tensorflow </ul>
 <ul> Numpy </ul>
+
+# Link to Dataset
+https://zindi.africa/competitions/ai-bootcamp-2021
